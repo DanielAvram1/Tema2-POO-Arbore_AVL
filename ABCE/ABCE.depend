@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1587575677 source:d:\programare\univer\abce\main.cpp
+	<iostream>
+	"Arbore_AVL.h"
+	"ABC.h"
+	<exception>
+
+1587575190 d:\programare\univer\abce\include\arbore_avl.h
+	"Arbore.h"
+	"Nod_AVL.h"
+	<iostream>
+
+1587570533 d:\programare\univer\abce\include\arbore.h
+
+1587513448 d:\programare\univer\abce\include\nod_avl.h
+	"Nod.h"
+
+1587513373 d:\programare\univer\abce\include\nod.h
+	<iostream>
+
+1587573551 source:d:\programare\univer\abce\src\nod.cpp
+	"Nod.h"
+
+1587244355 source:d:\programare\univer\abce\src\arbore.cpp
+
+1587576220 source:d:\programare\univer\abce\src\abc.cpp
+	"ABC.h"
+	<iostream>
+	<queue>
+	"exceptionNotFound.h"
+
+1587575299 d:\programare\univer\abce\include\abc.h
+	"Arbore.h"
+	<iostream>
+	"Nod.h"
+
+1587574128 source:d:\programare\univer\abce\src\nod_avl.cpp
+	"Nod_AVL.h"
+	<algorithm>
+
+1587576228 source:d:\programare\univer\abce\src\arbore_avl.cpp
+	"Arbore_AVL.h"
+	"exceptionIntruder.h"
+	"exceptionNotFound.h"
+
+1587505729 source:d:\programare\univer\abce\src\exceptionintruder.cpp
+	"exceptionIntruder.h"
+
+1587503612 d:\programare\univer\abce\include\exceptionintruder.h
+	<exception>
+
+1587505931 d:\programare\univer\abce\include\exceptionnotfound.h
+	<exception>
+
+1587505919 source:d:\programare\univer\abce\src\exceptionnotfound.cpp
+	"exceptionNotFound.h"
+
